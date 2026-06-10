@@ -1,0 +1,63 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+/.vs/
+/.vscode/
+/.idea/
+
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+*.tmp
+*.bak
+*.log
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Unity crash/debug output
+sysinfo.txt
+
+# Unity generated asset metadata
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Asset Store Tools
+/[Aa]ssets/AssetStoreTools*
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.x86
+*.x86_64
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.*
+credentials.*
+config.local.*
