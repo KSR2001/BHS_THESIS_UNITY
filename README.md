@@ -155,7 +155,7 @@ The SimPy simulator streams upstream messages to:
 | SimPy stream | `127.0.0.1` | `8765` |
 
 <p align="center">
-  <img src="docs/demo_inspector.jpg" alt="Port settings in Unity Inspector" width="800">
+  <img src="docs/demo_inspector.jpg" alt="Port settings in Unity Inspector" width="400">
 </p>
 
 ---
